@@ -1,4 +1,4 @@
-package main.java.DAO.Impl;
+package DAO.Impl;
 
 import DAO.BaseDAO;
 import org.hibernate.Hibernate;
